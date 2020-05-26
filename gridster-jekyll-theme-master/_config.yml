@@ -2,7 +2,7 @@ full_rebuild: true
 name: kimhaneui
 description: My Blog
 destination: korea
-url: http://kimhaneui.github.io
+url: http://honey.github.io
 baseurl: #place folder name if site is served in subfolder
 permalink: /:portfolio/
 paginate: 8
